@@ -19,7 +19,7 @@ int main()
     class_1 o1;
     o1.name = "harsh";
     o1.age = 12;
-    o1.roll_no = 19;
+    o1.roll_no = 20;
     cout << o1.name << " "<< o1.age <<" "<<o1.roll_no<<endl;
     return 0;
 }
