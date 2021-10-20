@@ -1,6 +1,6 @@
 # INTRODUCTION TO OOPS
 
-
+### [FOR NOTES CLICK HERE FOR PDF](https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md)
 
 
 # WHY OOPS ?
