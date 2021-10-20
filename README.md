@@ -1,7 +1,7 @@
 # INTRODUCTION TO OOPS
 
-#Tag: OOPS C++
-king topic: INTRODUCTION
+
+
 
 # WHY OOPS ?
 
